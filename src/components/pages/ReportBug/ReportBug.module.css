@@ -1,0 +1,67 @@
+.formWrapper {
+    padding: 20px;
+    background-color: #333;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
+.input {
+    padding: 5px 10px;
+    margin-top: 10px;
+    border: none;
+    background-color: #515151;
+    border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    -ms-border-radius:8px;
+    -o-border-radius:8px;
+}
+.input:focus {
+    background-color: #515151;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+.dropdownMain {
+    display: block;
+    padding: 8px 10px;
+    background-color: #515151;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+.dropdownMain:hover {
+    color: white;
+}
+textarea {
+    border: none;
+    color: white;
+}
+textarea:focus {
+    outline: none;
+}
+textarea::placeholder {
+    color: white;
+    font-weight: 300;
+}
+.submit {
+    width: 100%;
+    background-color: #3DB97B;
+    color: white;
+    padding: 8px 0;
+    border: none;
+    font-weight:bold;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+    font-size: 18px;
+    margin-top: 10px;
+}

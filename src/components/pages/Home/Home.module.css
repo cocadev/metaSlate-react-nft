@@ -1,0 +1,33 @@
+.heroimage {
+    height: 470px;
+    width: 470px;
+    max-width: 100%;
+    /* background-color: rgba(255, 255, 255, 0.19); */
+    /* backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px); */
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    margin: 0 auto;
+}r
+.subheading {
+    color: #B1B1B1;
+}
+.exploreButton {
+    background: #3DB97B;
+    height: 50px;
+    border: none;
+    border-radius:200px;
+    -webkit-border-radius:200px;
+    -moz-border-radius:200px;
+    -ms-border-radius:200px;
+    -o-border-radius:200px;
+    padding: 0 20px;
+    width: 200px;
+    font-size:20px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: white;
+}

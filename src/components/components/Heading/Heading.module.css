@@ -1,0 +1,11 @@
+.headingText span {
+    color: #3DB97B;
+}
+.m100 {
+    margin: 60px 0 70px;
+}
+@media only screen and (max-width: 768px) {
+    .m100 {
+        margin: 30px;
+    }
+}
