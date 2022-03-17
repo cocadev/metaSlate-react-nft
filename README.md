@@ -1,25 +1,20 @@
 # Getting Started with Create React App
 
-<<<<<<< HEAD
 This is the Metaslate React App. It utilises Moralis, namely [React-Moralis](https://www.npmjs.com/package/react-moralis). 
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
->>>>>>> Development
 
 ## Available Scripts
 
-<<<<<<< HEAD
 ## How to get a deploy test environment in the browser.
 =======
 In the project directory, you can run:
->>>>>>> Development
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<<<<<<< HEAD
 It will also host the METASLATE React App for you on your local network.
 Make sure you do this on your home wifi
 
@@ -29,7 +24,6 @@ Make sure you do this on your home wifi
 =======
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
->>>>>>> Development
 
 ### `npm test`
 
