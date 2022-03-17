@@ -4,9 +4,9 @@ export const AUCTION_CONTRACT_ADDRESS = "0xd51E181045FCd58C757de5472e0302781D934
 
 export const CURRENCY_CONTRACT_ADDRESS = '0x0c77cEDd56271A8d8b63b1A0eeA621DB788Ec82b';
 
-export const MORALIS_APP_ID = process.env.REACT_APP_MORALIS_APP_ID;
+export const MORALIS_APP_ID = 'nB1zfA6oJ1lYmaopsoaM2nDLZ27tLXBoVDYlvhKN';
 
-export const MORALIS_SERVER_URL = process.env.REACT_APP_MORALIS_SERVER_URL;
+export const MORALIS_SERVER_URL = 'https://wqaxghmsixkm.usemoralis.com:2053/server';
 
 export const TOKEN_PRICE = 1.44;
 
